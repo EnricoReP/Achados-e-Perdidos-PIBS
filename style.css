@@ -20,6 +20,15 @@ header {
     background-color:#02CF54;
     color: #b9bced;
     padding: 20px;
+}
+
+h1 {
     display: flex;
     justify-content: center;
+}
+
+#criadores {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
 }
