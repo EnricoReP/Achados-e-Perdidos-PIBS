@@ -1,0 +1,21 @@
+/* Cores:
+#9899A6 Lavander grey
+#02CF54 Malachite
+#F7FF58 Canary Yellow
+#FF934F Tangerine dream
+#718F94 Slate grey
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #F7FF58;
+}
+
+h1 {
+    color: #9899A6
+}
