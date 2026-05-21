@@ -16,6 +16,10 @@ body {
     background-color: #F7FF58;
 }
 
-h1 {
-    color: #9899A6
+header { 
+    background-color:#02CF54;
+    color: #b9bced;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
 }
